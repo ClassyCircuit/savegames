@@ -1,0 +1,3 @@
+{"type":"custom","ts":1472370954377,"name":"Heatmap.PlayerPosition","custom_params":{"x":-35.54263,"y":-21.80558,"z":-118.9532,"t":1680.99,"fps":79.30406}}
+{"type":"custom","ts":1472370985180,"name":"Heatmap.PlayerDeath","custom_params":{"x":-138.0486,"y":-9.004419,"z":-159.117,"t":1711.797}}
+{"type":"appRunning","ts":1472370999466,"duration":1341}

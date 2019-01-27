@@ -1,0 +1,2049 @@
+Initialize engine version: 2017.2.2p2 (32bc645ba6f6)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 770 (ID=0x1184)
+    Vendor:   NVIDIA
+    VRAM:     2007 MB
+    Driver:   24.21.13.9882
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.070 seconds
+OnLevelWasLoaded was found on PlayMakerFSM
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 380)
+
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 3050 -> priority: 1 
+  Thread -> id: 165c -> priority: 1 
+  Thread -> id: 3cd0 -> priority: 1 
+  Thread -> id: 17fc -> priority: 1 
+UnloadTime: 0.831359 ms
+WwiseUnity: Initialize sound engine ...
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+WwiseUnity: Sound engine initialized.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at AkInitializer.OnApplicationFocus (Boolean focus) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at AkInitializer.OnApplicationFocus (Boolean focus) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+[SteamStatsAndAchievements.OnUserStatsReceived] There was a disparity between Steam Achievements, and internal FTK Achievements. Not present on Steam: ACH_STORY_KILL_CULTIST_CAMP, ACH_STORY_CLEAR_FORGOTTEN_CELLAR, ACH_STORY_CLEAR_LICHS_CRYPT, ACH_STORY_KILL_MIND_BENDER, ACH_CLEAR_DEMON_CAVES, ACH_FLY_BALLOON, ACH_STORY_KILL_VEXOR_EASY, ACH_STORY_KILL_VEXOR_NORMAL, ACH_STORY_KILL_VEXOR_HARD, ACH_CLEAR_GLITTERING_MINES, ACH_CLEAR_KINGS_MAZE, ACH_CLEAR_BURIED_TEMPLE, ACH_CLEAR_CAVE, ACH_CLEAR_SEA_CAVES_T1, ACH_CLEAR_FLOODED_CRYPT, ACH_CLEAR_MAGE_DUNGEON, ACH_CLEAR_LAVA_DUNGEON, ACH_KILL_CHAOS_BEAST, ACH_FIRST_PARTY_WIPE, ACH_REVIVE, ACH_BREAK_WEAPON, ACH_COMPLETE_SIDEQUEST_T1, ACH_COMPLETE_SIDEQUEST_T2, ACH_GOLD_WALLET_T1, ACH_GOLD_WALLET_T2, ACH_GOLD_WALLET_T3, ACH_KILL_SCOURGE_LUCKY, ACH_KILL_SCOURGE_BANDIT_KING, ACH_KILL_SCOURGE_ROYAL_DROLL, ACH_KILL_SCOURGE_HANGMAN, ACH_KILL_SCOURGE_FOUL_PRIESTESS, ACH_KILL_SCOURGE_COAL_HEART, ACH_KILL_SCOURGE_OLD_ONE, ACH_STORY_COMPLETE_DAY_T1, ACH_PARTY_WIPE_BOSS, ACH_DIE_FROM_TRAP, ACH_SHIPWRECK, ACH_SURVIVE_1_HP, ACH_DISARM_TRAPS_T1, ACH_USE_ALLURING_POOL, ACH_USE_SCROLLS_T1, ACH_USE_CANDIES_T1, ACH_USE_HERBS_T1, ACH_USE_HERBS_T2, ACH_DAMAGE_ATTACK_T1, ACH_DEVOTE_SANCTUM_T1, ACH_DEVOTE_SANCTUM_ALL, ACH_HERO_STATUE_TRIBUTE_T1, ACH_HERO_STATUE_TRIBUTE_T2, ACH_HERO_STATUE_TRIBUTE_T3, ACH_DESTROY_CHAOS_STATUE, ACH_FULL_PIPE, ACH_ATTR_FOCUS_T1, ACH_ATTR_LEVEL_T1, ACH_ATTR_ARMOUR_T1, ACH_ATTR_RESISTANCE_T1, ACH_ATTR_EVASION_T1, ACH_KILL_KRAKEN, ACH_KILL_THIEF_FLEE, ACH_KILL_ENEMY_T1, ACH_KILL_BEASTMAN_T1, ACH_KILL_SKELETON_T1, ACH_KILL_HAG_T1, ACH_KILL_TRICLOPS_T1, ACH_KILL_MIMIC_T1, ACH_KILL_CRAG_T1, ACH_KILL_IMP_T1, ACH_LORE_STORE_T1, ACH_LORE_STORE_T2, ACH_LORE_STORE_T3, ACH_DEAD_ADVENTURER_T1, ACH_DEAD_ADVENTURER_T2, ACH_FINAL_ROOM_HARAZUEL, ACH_STORY_FROSTBITE_DRAGON, ACH_FREE_MONK, ACH_STORY_COMPLETE_ARMORY, ACH_BREAK_SIEGE, ACH_KILL_SNOWMAN_T1, ACH_STORY_FROST_INTRO, ACH_KILL_SCOURGE_DEIMOS, ACH_KILL_SCOURGE_DISCIPLE, ACH_USE_HERB_T1, ACH_USE_CANDY_T1, ACH_CELLAR_LEVEL_T1, ACH_CELLAR_LEVEL_T2, ACH_CELLAR_LEVEL_T3, Not present in FTK: 
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[SteamStatsAndAchievements.OnUserStatsReceived] There was a disparity between Steam Stats, and internal FTK Stats. Errors from Steam: STAT_SEA_CAVES_CLEARED, STAT_SIDE_QUESTS_COMPLETED, STAT_GOLD_WALLET, STAT_TRAPS_DISARMED, STAT_USED_SCROLLS, STAT_USED_CANDIES, STAT_USED_HERBS, STAT_SANCTUMS_DEVOTED, STAT_HERO_STATUES_TRIBUTED, STAT_ATTR_ARMOUR, STAT_ATTR_RESISTANCE, STAT_ATTR_EVASION, STAT_KILLED_TOTAL_COUNT, STAT_KILLED_BEASTMEN, STAT_KILLED_SKELETONS, STAT_KILLED_HAGS, STAT_KILLED_TRICLOPS, STAT_KILLED_MIMICS, STAT_KILLED_CRAGS, STAT_KILLED_IMPS, STAT_LORE_ENTRIES_UNLOCKED, STAT_DEAD_ADVENTURER, STAT_LU_WOODCUTTER, STAT_LU_BUSKER, STAT_LU_HERBALIST, STAT_LU_TRAPPER, STAT_LU_ITEMKUROMASK, STAT_LU_ITEMPRINCESSHAT, STAT_LU_ITEMBOOTSOFPOWER, STAT_LU_ITEMAEGISSHIELD, STAT_LU_ITEMCROWNHELM, STAT_LU_ITEMUNIHORN, STAT_LU_ITEMOUTWORNBUCKLER, STAT_LU_ITEMBOOTSOFQUICKNESS, STAT_LU_ITEMEMBRACEDAGGER, STAT_LU_ITEMRAZORPOLEARM, STAT_LU_ITEMWALDHARPOLEARM, STAT_LU_ITEMGOATSTAFF, STAT_LU_ITEMZEUSBLADE, STAT_LU_ITEMFROSTKEYTAR, STAT_LU_ITEMROYALBLADE, STAT_LU_ITEMROYALLUTE, STAT_LU_ITEMROYALBOW, STAT_LU_KRAKENWARDS, STAT_LU_ALLURINGPOOLS, STAT_LU_DARKCARNIVAL, STAT_LU_TRAVELINGHEALER, STAT_LU_TRAINER, STAT_LU_PRIMORDIALOAK, STAT_LU_GAMBLINGDEN, STAT_LU_WARRIORSARENA, STAT_LU_ROYALACADEMY, STAT_LU_NIGHTMARKET, STAT_LU_FRIENDLYCAMPER, STAT_LU_STONETABLE, STAT_LU_ROCNEST, STAT_LU_STONEHEROBRONZE, STAT_LU_STONEHEROSILVER, STAT_LU_STONEHEROGOLD, STAT_LU_PIPESMITH, STAT_LU_ITEMROYALHAMMER, STAT_LU_ITEMVARDEMODER, STAT_LU_ITEMCHAOSSTAFF, STAT_LU_ITEMCHAOSTOME, STAT_LU_ITEMWHELKHELM, STAT_LU_HOBO, STAT_LU_TOTAL_LORE, STAT_ATTR_FOCUS, STAT_CHARACTER_LEVEL, STAT_SANCTUM01_DEVOTED, STAT_SANCTUM02_DEVOTED, STAT_SANCTUM03_DEVOTED, STAT_SANCTUM04_DEVOTED, STAT_SANCTUM05_DEVOTED, STAT_SANCTUM06_DEVOTED, STAT_SANCTUM07_DEVOTED, STAT_SANCTUM08_DEVOTED, STAT_SANCTUM09_DEVOTED, STAT_LU_HOBO_CHARITY, STAT_LU_STONE_HERO_TRIBUTES, STAT_LU_PROGRESS_ACTI, STAT_LU_PROGRESS_ACTII, STAT_LU_PROGRESS_ACTIII, STAT_LU_PROGRESS_ACTIV, STAT_LU_GSANCTUM01, STAT_LU_GSANCTUM02, STAT_LU_GSANCTUM03, STAT_LU_GSANCTUM04, STAT_LU_GSANCTUM05, STAT_LU_GSANCTUM06, STAT_LU_GSANCTUM07, STAT_LU_GSANCTUM08, STAT_LU_GSANCTUM09, STAT_PARTY_WIPES, STAT_LU_MONK_RESCUE, STAT_LU_MONK, STAT_LU_SKINUNDEAD, STAT_LU_SKINUNDEAD_REVEAL, STAT_LU_SKINCAT, STAT_LU_SKINCAT_REVEAL, STAT_LU_BACKPACKMERCHANT, STAT_LU_BACKPACKMERCHANT_REVEAL, STAT_LU_BACKPACKQUIVER, STAT_LU_BACKPACKQUIVER_REVEAL, STAT_LU_BACKPACKBASKET, STAT_LU_BACKPACKBASKET_REVEAL, STAT_LU_BACKPACKBARREL, STAT_LU_BACKPACKBARREL_REVEAL, STAT_LU_BACKPACKWARRIOR, STAT_LU_BACKPACKWARRIOR_REVEAL, STAT_LU_HELMETWINTER, STAT_LU_HELMETWINTER_REVEAL, STAT_LU_HELMETMOOSE, STAT_LU_HELMETMOOSE_REVEAL, STAT_LU_HELMETBUCKET, STAT_LU_HELMETBUCKET_REVEAL, STAT_LU_BACKPACKKS, STAT_LU_BACKPACKKS_REVEAL, STAT_KILLED_SNOWMEN, STAT_GAMEWIN_KV_1, STAT_GAMEWIN_KV_2, STAT_GAMEWIN_KV_3, STAT_GAMEWIN_DC_1, STAT_GAMEWIN_DC_2, STAT_GAMEWIN_DC_3, STAT_GAMEWIN_FA_1, STAT_GAMEWIN_FA_2, STAT_GAMEWIN_FA_3, STAT_LU_HELMETTOPHAT, STAT_LU_HELMETTOPHAT_REVEAL, STAT_LU_HELMETEXPLORER, STAT_LU_HELMETEXPLORER_REVEAL, STAT_LU_HELMETKS, STAT_LU_HELMETKS_REVEAL, STAT_CELLAR_LEVEL_DEPTH, STAT_LU_ITEMHILDEBRANTSRESERVE, STAT_LU_HELMETMEAD, STAT_LU_HELMETDEMON, STAT_LU_BACKPACKDEMON, STAT_LU_ITEMHELLBOOTS, STAT_LU_ITEMHELLHELM, STAT_LU_ITEMHELLARMOR, STAT_LU_SKINDEMON, STAT_LU_HELMETNOBLE, STAT_LU_ARMORWINTER, STAT_LU_ARMORCULTIST, STAT_CELLAR_ROOM_COUNT, STAT_LU_HELMETMASQUERADE, STAT_LU_BACKPACKNOBLE, STAT_LU_ARMORNOBLE, STAT_LU_HELMETCULTIST, STAT_BEATCULTISTCAMP
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Fallback handler could not load library D:/games/For.The.King.v1.0.7.8361/FTK_Data/Mono/data-00000207AA63A030.dll
+Fallback handler could not load library D:/games/For.The.King.v1.0.7.8361/FTK_Data/Mono/data-00000207AA602920.dll
+Fallback handler could not load library D:/games/For.The.King.v1.0.7.8361/FTK_Data/Mono/data-0000020745DB5040.dll
+Searching for compatible XInput library...
+Found Xinput1_4.dll.
+Release v1.0.7.8361 
+64 Bit version
+Release Build
+Discord: init
+The loaded level has a different lightmaps mode than the current one. Current: Directional. Loaded: Non-Directional. Will use: Directional.
+ 
+(Filename:  Line: 504)
+
+[PublishPlatform.ProcessDelivery] Delivery request failed: Steam returned an error code: 993 - The response from ISteamUserAuth/AuthenticateUserTicket returned the following error: Code: 3 Description: Invalid parameter
+Resuming C:/Users/simso/AppData/LocalLow/IronOak Games/FTK\save\story_2018_8_2_0.run
+Game Difficulty Set: Low
+Sync Stats
+Game Difficulty Set: Low
+Resuming game C:/Users/simso/AppData/LocalLow/IronOak Games/FTK\save\story_2018_8_2_0.run
+Resuming version 1.0.7, difficulty Low
+Loading HexInfo
+Loading Towns
+Loading MiniHex
+InitalizePOIMapData time 0.02999496
+Game Difficulty Set: Low
+Can do turnless dungeon: True
+EnterFahrulRPC Low
+Creating 0 1
+Registering Player 1
+Creating 1 1
+Registering Player 2
+Creating 2 1
+Registering Player 3
+ClientDeserializeFinalRPC
+Start Player 1
+Start Player 2
+Start Player 3
+Host spec
+ Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz 3392 MHz
+ CPU count 8
+ GPU NVIDIA GeForce GTX 770
+Analytics: StartSession_KillVexor, {"TotalRunDuration":6424.30957,"Round":16,"HouseRulesEasier":false,"CharCount":3,"Players":1,"Difficulty":"EASY","Region":"NONE","IsResume":true}
+Analytics: StartSession_Rules_KillVexor, {"HouseRulesEasier":false,"ChaosFrequency":6,"StartLifePool":4,"Inflation":0.9,"Difficulty":"EASY","AvgPlayerLevel":2.66666675,"Round":16,"IsResume":true}
+Game Round: 17, Stage Percent: 17%, Stage Progression: Tier2, Player Progression: Tier2
+Auto Saving
+Combat: DisplaySlots wait finished
+Auto Saving
+Combat: DisplaySlots wait finished
+Trainer is lore locked, returning nothing
+Auto Saving
+Combat: DisplaySlots wait finished
+Game Round: 18, Stage Percent: 20%, Stage Progression: Tier2, Player Progression: Tier2
+Auto Saving
+Combat: DisplaySlots wait finished
+Combat: Huntery encounter enemy cragHulk, Hex 10-11
+Combat: POI check: Hex 10-11 type Enemy
+Combat: InitiateCombateSessionRPC
+Combat: StartEncounterSession Diorama baseGP Enemy
+Encounter: Random Seed - 1236514911
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+Combat: WaitForCameraToZoomIN
+Combat: CommenceBattle
+Combat: CommenceBattleRPC
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Huntery
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 1 Dummy(Huntery) is attempting prof attack(bowArmorBreak)
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: WaitPlayCharacterAbilityEvent wait
+Combat: WaitPlayCharacterAbilityEvent finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Huntery
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 1 Dummy(Huntery) is attempting prof attack(bowArmorBreak)
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Smarty
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 3 Dummy(Smarty) is attempting prof attack(polearmBookReg)
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Whitesmith
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 2 Dummy(Whitesmith) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+warning: Item class coins does not exist.
+Combat: Huntery encounter enemy banditB, Hex 10-13
+Combat: POI check: Hex 10-13 type EnemyCamp
+Combat: InitiateCombateSessionRPC
+Combat: StartEncounterSession Diorama baseGP Enemy
+Encounter: Random Seed - 482815878
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+Combat: WaitForCameraToZoomIN
+Combat: CommenceBattle
+Combat: CommenceBattleRPC
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy(banditB) is attempting norm(None)
+Combat: EngageBattle banditB
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Huntery
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 1 Dummy(Huntery) is attempting prof attack(bowArmorBreak)
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Smarty
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 3 Dummy(Smarty) is attempting prof attack(magicSplash)
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy(banditB) is attempting norm(None)
+Combat: EngageBattle banditB
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy 1(banditB) is attempting prof(enBleedSplash)
+Combat: EngageBattle banditB
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy 2(banditB) is attempting norm(None)
+Combat: EngageBattle banditB
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Huntery
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 1 Dummy(Huntery) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Smarty
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 3 Dummy(Smarty) is attempting prof attack(polearmBookReg)
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy 1(banditB) is attempting norm(None)
+Combat: EngageBattle banditB
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy 2(banditB) is attempting norm(None)
+Combat: EngageBattle banditB
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Huntery
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 1 Dummy(Huntery) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Smarty
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 3 Dummy(Smarty) is attempting prof attack(polearmBookReg)
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy 2(banditB) is attempting prof(enBleedSplash)
+Combat: EngageBattle banditB
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Huntery
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 1 Dummy(Huntery) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Auto Saving
+Combat: DisplaySlots wait finished
+Auto Saving
+Combat: DisplaySlots wait finished
+#done in code# is not a member of the rowIds enumeration.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Combat: POI check: Hex 10-17 type Haunt
+Combat: InitiateCombateSessionRPC
+Combat: StartEncounterSession Diorama baseGP Enemy
+Encounter: Random Seed - 1410833214
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+Combat: WaitForCameraToZoomIN
+Combat: CommenceBattle
+Combat: CommenceBattleRPC
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Huntery
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 1 Dummy(Huntery) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: WaitPlayCharacterAbilityEvent wait
+Combat: WaitPlayCharacterAbilityEvent finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Smarty
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 3 Dummy(Smarty) is attempting prof attack(magicSplash)
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy 2(minionScourgeF) is attempting norm(None)
+Combat: EngageBattle minionScourgeF
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy 1(minionScourgeF) is attempting prof(enCurse)
+Combat: EngageBattle minionScourgeF
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Whitesmith
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 2 Dummy(Whitesmith) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy(scourgeF) is attempting scheduled attack(Normal)
+Combat: EngageBattle scourgeF
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Huntery
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 1 Dummy(Huntery) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Smarty
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 3 Dummy(Smarty) is attempting prof attack(magicSplash)
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy 2(minionScourgeF) is attempting norm(None)
+Combat: EngageBattle minionScourgeF
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy 1(minionScourgeF) is attempting norm(None)
+Combat: EngageBattle minionScourgeF
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Whitesmith
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 2 Dummy(Whitesmith) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Bad attack request Prof2, check attack schedule of scourgeF_axe(Clone)
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Enemy Dummy(scourgeF) is attempting scheduled attack(Prof2)
+Combat: EngageBattle scourgeF
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Huntery
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 1 Dummy(Huntery) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Smarty
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 3 Dummy(Smarty) is attempting prof attack(polearmBookReg)
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Whitesmith
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 2 Dummy(Whitesmith) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+warning: Item class lorebook does not exist.
+_lore_2- not found in FTK_itembase
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Game Round: 19, Stage Percent: 23%, Stage Progression: Tier2, Player Progression: Tier2
+Auto Saving
+Combat: DisplaySlots wait finished
+Auto Saving
+Combat: DisplaySlots wait finished
+Auto Saving
+Combat: DisplaySlots wait finished
+Game Round: 20, Stage Percent: 27%, Stage Progression: Tier2, Player Progression: Tier2
+Auto Saving
+Combat: DisplaySlots wait finished
+Auto Saving
+Combat: DisplaySlots wait finished
+Combat: Whitesmith encounter enemy banditF, Hex 14-10
+Combat: POI check: Hex 14-10 type EnemyCamp
+Combat: InitiateCombateSessionRPC
+Combat: StartEncounterSession Diorama baseGP Enemy
+Encounter: Random Seed - 1842938978
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+Combat: WaitForCameraToZoomIN
+Combat: CommenceBattle
+Combat: CommenceBattleRPC
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Huntery
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 1 Dummy(Huntery) is attempting prof attack(bowSlow1)
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy 1(banditE) is attempting scheduled attack(Prof1)
+Combat: EngageBattle banditE
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy 2(banditE) is attempting scheduled attack(Normal)
+Combat: EngageBattle banditE
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Smarty
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 3 Dummy(Smarty) is attempting prof attack(magicSplash)
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Whitesmith
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 2 Dummy(Whitesmith) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy(banditF) is attempting scheduled attack(Prof0)
+Combat: EngageBattle banditF
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Huntery
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 1 Dummy(Huntery) is attempting prof attack(bowSlow1)
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy 1(banditE) is attempting scheduled attack(Normal)
+Combat: EngageBattle banditE
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Smarty
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 3 Dummy(Smarty) is attempting prof attack(magicSplash)
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy 2(banditE) is attempting scheduled attack(Prof0)
+Combat: EngageBattle banditE
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Huntery
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 1 Dummy(Huntery) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy 1(banditE) is attempting scheduled attack(Normal)
+Combat: EngageBattle banditE
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Smarty
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 3 Dummy(Smarty) is attempting prof attack(polearmBookReg)
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Auto Saving
+Combat: DisplaySlots wait finished
+#done in code# is not a member of the rowIds enumeration.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SideQuestCentreCameraCoroutine starting
+SideQuestCentreCameraCoroutine 1
+SideQuestCentreCameraCoroutine 2
+SideQuestCentreCameraCoroutine 3
+SideQuestCentreCameraCoroutine 4
+SideQuestCentreCameraCoroutine 1
+SideQuestCentreCameraCoroutine 3
+SideQuestCentreCameraCoroutine 4
+SideQuestCentreCameraCoroutine done
+#done in code# is not a member of the rowIds enumeration.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+warning: Item class conLockpicks does not exist.
+Add to Quick Item is not a member of the rowIds enumeration.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remove Quick is not a member of the rowIds enumeration.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Combat: InitiateCombateSessionRPC
+Combat: StartEncounterSession Overworld  JustLoots
+Encounter: Random Seed - 342698496
+warning: Item class questSupplyList does not exist.
+#done in code# is not a member of the rowIds enumeration.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Game Round: 21, Stage Percent: 30%, Stage Progression: Tier2, Player Progression: Tier2
+Auto Saving
+Combat: DisplaySlots wait finished
+Combat: Huntery encounter enemy hagB, Hex 14-13
+Combat: POI check: Hex 14-13 type Enemy
+Combat: InitiateCombateSessionRPC
+Combat: StartEncounterSession Diorama baseGP Enemy
+Encounter: Random Seed - 1532498505
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+Combat: WaitForCameraToZoomIN
+Combat: CommenceBattle
+Combat: CommenceBattleRPC
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Huntery
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 1 Dummy(Huntery) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Huntery
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 1 Dummy(Huntery) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+#done in code# is not a member of the rowIds enumeration.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Auto Saving
+Combat: DisplaySlots wait finished
+#done in code# is not a member of the rowIds enumeration.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Auto Saving
+Combat: DisplaySlots wait finished
+Combat: InitiateCombateSessionRPC
+Combat: StartEncounterSession Overworld  JustLoots
+Encounter: Random Seed - 781278355
+#done in code# is not a member of the rowIds enumeration.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+#done in code# is not a member of the rowIds enumeration.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Game Round: 22, Stage Percent: 33%, Stage Progression: Tier2, Player Progression: Tier2
+Auto Saving
+Combat: DisplaySlots wait finished
+Combat: Huntery encounter enemy banditA, Hex 7-9
+Combat: POI check: Hex 7-9 type Enemy
+Combat: InitiateCombateSessionRPC
+Combat: StartEncounterSession Diorama baseGP Enemy
+Encounter: Random Seed - 556047774
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+Combat: WaitForCameraToZoomIN
+Combat: CommenceBattle
+Combat: CommenceBattleRPC
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy(banditA) is attempting norm(None)
+Combat: EngageBattle banditA
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Huntery
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 1 Dummy(Huntery) is attempting prof attack(bleed1)
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy(banditA) is attempting prof(enInterruptPierce)
+Combat: EngageBattle banditA
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Smarty
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 3 Dummy(Smarty) is attempting prof attack(magicSplash)
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy 2(banditF) is attempting scheduled attack(Normal)
+Combat: EngageBattle banditF
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Huntery
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 1 Dummy(Huntery) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Smarty
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 3 Dummy(Smarty) is attempting prof attack(polearmBookReg)
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+#done in code# is not a member of the rowIds enumeration.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+#done in code# is not a member of the rowIds enumeration.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Auto Saving
+Combat: DisplaySlots wait finished
+#done in code# is not a member of the rowIds enumeration.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+#done in code# is not a member of the rowIds enumeration.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Auto Saving
+Combat: DisplaySlots wait finished
+#done in code# is not a member of the rowIds enumeration.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Game Round: 23, Stage Percent: 37%, Stage Progression: Tier2, Player Progression: Tier2
+No MiniEncounter for Sea type in Ocean
+Auto Saving
+Combat: DisplaySlots wait finished
+#done in code# is not a member of the rowIds enumeration.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+#done in code# is not a member of the rowIds enumeration.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Auto Saving
+Combat: DisplaySlots wait finished
+Combat: Whitesmith encounter enemy banditE, Hex 8-17
+Combat: POI check: Hex 8-17 type EnemyCamp
+Combat: InitiateCombateSessionRPC
+Combat: StartEncounterSession Diorama baseGP Enemy
+Encounter: Random Seed - 1126886595
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+Combat: WaitForCameraToZoomIN
+Combat: CommenceBattle
+Combat: CommenceBattleRPC
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Huntery
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 1 Dummy(Huntery) is attempting prof attack(bleed1)
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy(banditE) is attempting scheduled attack(Normal)
+Combat: EngageBattle banditE
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy 2(banditE) is attempting scheduled attack(Normal)
+Combat: EngageBattle banditE
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Smarty
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 3 Dummy(Smarty) is attempting prof attack(magicSplash)
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy 1(banditB) is attempting prof(enBleedSplash)
+Combat: EngageBattle banditB
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Whitesmith
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 2 Dummy(Whitesmith) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Huntery
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 1 Dummy(Huntery) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy 2(banditE) is attempting scheduled attack(Prof0)
+Combat: EngageBattle banditE
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy 1(banditB) is attempting norm(None)
+Combat: EngageBattle banditB
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Whitesmith
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 2 Dummy(Whitesmith) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Huntery
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 1 Dummy(Huntery) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy 2(banditE) is attempting scheduled attack(Normal)
+Combat: EngageBattle banditE
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Smarty
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 3 Dummy(Smarty) is attempting prof attack(polearmBookReg)
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Whitesmith
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 2 Dummy(Whitesmith) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+#done in code# is not a member of the rowIds enumeration.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Auto Saving
+Combat: DisplaySlots wait finished
+#done in code# is not a member of the rowIds enumeration.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Game Round: 24, Stage Percent: 40%, Stage Progression: Tier2, Player Progression: Tier2
+Auto Saving
+Combat: DisplaySlots wait finished
+#done in code# is not a member of the rowIds enumeration.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Auto Saving
+Combat: DisplaySlots wait finished
+Combat: Whitesmith encounter enemy hagB, Hex 14-10
+Combat: POI check: Hex 14-10 type Enemy
+Combat: InitiateCombateSessionRPC
+Combat: StartEncounterSession Diorama baseGP Enemy
+Encounter: Random Seed - 1454618379
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+Combat: WaitForCameraToZoomIN
+Combat: CommenceBattle
+Combat: CommenceBattleRPC
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy(hagB) is attempting scheduled attack(Prof0)
+Combat: EngageBattle hagB
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Huntery
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 1 Dummy(Huntery) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Smarty
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 3 Dummy(Smarty) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Auto Saving
+Combat: DisplaySlots wait finished
+#done in code# is not a member of the rowIds enumeration.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Combat: InitiateCombateSessionRPC
+Combat: StartEncounterSession Overworld  DeadAdventurer
+Encounter: Random Seed - 1843680689
+Game Round: 25, Stage Percent: 43%, Stage Progression: Tier2, Player Progression: Tier2
+Auto Saving
+Combat: DisplaySlots wait finished
+Combat: InitiateCombateSessionRPC
+Combat: StartEncounterSession Overworld  DeadAdventurer
+Encounter: Random Seed - 1567701874
+Combat: Huntery encounter enemy skellyBardA, Hex 10-2
+Combat: POI check: Hex 10-2 type Enemy
+Combat: InitiateCombateSessionRPC
+Combat: StartEncounterSession Diorama baseGP Enemy
+Encounter: Random Seed - 408752470
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+Combat: WaitForCameraToZoomIN
+Combat: CommenceBattle
+Combat: CommenceBattleRPC
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Huntery
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 1 Dummy(Huntery) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Huntery
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 1 Dummy(Huntery) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: WaitPlayCharacterAbilityEvent wait
+Combat: WaitPlayCharacterAbilityEvent finished
+Auto Saving
+Combat: DisplaySlots wait finished
+#done in code# is not a member of the rowIds enumeration.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+STR_DungeonNoneDisplay is not a member of the rowIds enumeration.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+STR_DungeonNoneDisplay is not a member of the rowIds enumeration.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+#done in code# is not a member of the rowIds enumeration.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SideQuestCentreCameraCoroutine starting
+SideQuestCentreCameraCoroutine 1
+SideQuestCentreCameraCoroutine 2
+SideQuestCentreCameraCoroutine 3
+SideQuestCentreCameraCoroutine 4
+SideQuestCentreCameraCoroutine 1
+SideQuestCentreCameraCoroutine 3
+SideQuestCentreCameraCoroutine 4
+SideQuestCentreCameraCoroutine done
+Auto Saving
+Combat: DisplaySlots wait finished
+#done in code# is not a member of the rowIds enumeration.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Game Round: 26, Stage Percent: 47%, Stage Progression: Tier2, Player Progression: Tier2
+Auto Saving
+Combat: DisplaySlots wait finished
+#done in code# is not a member of the rowIds enumeration.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+Auto Saving
+Combat: DisplaySlots wait finished
+Combat: InitiateCombateSessionRPC
+Combat: StartEncounterSession Overworld  JustLoots
+Encounter: Random Seed - 901726155
+warning: Item class questMysteriousPotion does not exist.
+#done in code# is not a member of the rowIds enumeration.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Combat: InitiateCombateSessionRPC
+Combat: StartEncounterSession Overworld  JustLoots
+Encounter: Random Seed - 684862979
+Auto Saving
+Combat: DisplaySlots wait finished
+Game Round: 27, Stage Percent: 50%, Stage Progression: Tier3, Player Progression: Tier2
+PlainsTown01 market refresh: 3
+PlainsTown02 market refresh: 3
+BurningTown01 market refresh: 3
+BurningTown01 side quest refresh: 2
+BurningTown02 market refresh: 3
+BurningTown02 side quest refresh: 2
+WaterTown01 market refresh: 3
+WaterTown01 side quest refresh: 2
+DesertTown01 market refresh: 3
+DesertTown02 market refresh: 3
+DropstoneTown01 market refresh: 3
+DropstoneTown02 market refresh: 3
+Auto Saving
+Combat: DisplaySlots wait finished
+#done in code# is not a member of the rowIds enumeration.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Auto Saving
+Combat: DisplaySlots wait finished
+Combat: InitiateCombateSessionRPC
+Combat: StartEncounterSession Overworld  DeadAdventurer
+Encounter: Random Seed - 1887412502
+Shuffle Herbs
+Shuffle Herbs
+Auto Saving
+Combat: DisplaySlots wait finished
+Combat: Smarty encounter enemy cragHulk, Hex 6-15
+Combat: POI check: Hex 6-15 type Enemy
+Combat: InitiateCombateSessionRPC
+Combat: StartEncounterSession Diorama baseGP Enemy
+Encounter: Random Seed - 39593951
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+Combat: WaitForCameraToZoomIN
+Combat: CommenceBattle
+Combat: CommenceBattleRPC
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Smarty
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 3 Dummy(Smarty) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Huntery
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 1 Dummy(Huntery) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: WaitPlayCharacterAbilityEvent wait
+Combat: WaitPlayCharacterAbilityEvent finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Smarty
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 3 Dummy(Smarty) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Whitesmith
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 2 Dummy(Whitesmith) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: Smarty encounter enemy skellyBardA, Hex 6-14
+Combat: POI check: Hex 6-14 type Enemy
+Combat: InitiateCombateSessionRPC
+Combat: StartEncounterSession Diorama baseGP Enemy
+Encounter: Random Seed - 946417822
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+Combat: WaitForCameraToZoomIN
+Combat: CommenceBattle
+Combat: CommenceBattleRPC
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy(skellyBardA) is attempting scheduled attack(Prof0)
+Combat: EngageBattle skellyBardA
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Huntery
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 1 Dummy(Huntery) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Smarty
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 3 Dummy(Smarty) is attempting prof attack(musicSplash)
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+'-1' not found in 'GridEditor.FTK_proficiencyTableDB'
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy(skellyBardA) is attempting scheduled attack(Normal)
+Combat: EngageBattle skellyBardA
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy 2(skellymageC) is attempting scheduled attack(Prof0)
+Combat: EngageBattle skellymageC
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Whitesmith
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 2 Dummy(Whitesmith) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Huntery
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 1 Dummy(Huntery) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Smarty
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 3 Dummy(Smarty) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+warning: Item class conCarnivalTicket does not exist.
+Game Round: 28, Stage Percent: 53%, Stage Progression: Tier3, Player Progression: Tier3
+Auto Saving
+Combat: DisplaySlots wait finished
+Combat: Huntery encounter enemy cragHulk, Hex 11-2
+Combat: POI check: Hex 11-2 type Enemy
+Combat: InitiateCombateSessionRPC
+Combat: StartEncounterSession Diorama baseGP Enemy
+Encounter: Random Seed - 453671981
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+Combat: WaitForCameraToZoomIN
+Combat: CommenceBattle
+Combat: CommenceBattleRPC
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Huntery
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 1 Dummy(Huntery) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Huntery
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 1 Dummy(Huntery) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Smarty
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 3 Dummy(Smarty) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy(cragHulk) is attempting scheduled attack(Prof2)
+Combat: EngageBattle cragHulk
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Huntery
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 1 Dummy(Huntery) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Smarty
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 3 Dummy(Smarty) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Huntery
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 1 Dummy(Huntery) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Auto Saving
+Combat: DisplaySlots wait finished
+Combat: Whitesmith encounter enemy wraithA, Hex 12-13
+Combat: POI check: Hex 12-13 type Enemy
+Combat: InitiateCombateSessionRPC
+Combat: StartEncounterSession Diorama baseGP Enemy
+Encounter: Random Seed - 300480103
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+Combat: WaitForCameraToZoomIN
+Combat: CommenceBattle
+Combat: CommenceBattleRPC
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Huntery
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 1 Dummy(Huntery) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Smarty
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 3 Dummy(Smarty) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy(wraithA) is attempting norm(None)
+Combat: EngageBattle wraithA
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Whitesmith
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 2 Dummy(Whitesmith) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Huntery
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 1 Dummy(Huntery) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: Whitesmith encounter enemy cubeB, Hex 12-11
+Combat: POI check: Hex 12-11 type Enemy
+Combat: InitiateCombateSessionRPC
+Combat: StartEncounterSession Diorama baseGP Enemy
+Encounter: Random Seed - 1930557662
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+Combat: WaitForCameraToZoomIN
+Combat: CommenceBattle
+Combat: CommenceBattleRPC
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Whitesmith
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 2 Dummy(Whitesmith) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Huntery
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 1 Dummy(Huntery) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Smarty
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 3 Dummy(Smarty) is attempting prof attack(musicEvadeDownGroup)
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Whitesmith
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 2 Dummy(Whitesmith) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Huntery
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 1 Dummy(Huntery) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy(cubeB) is attempting scheduled attack(Prof0)
+Combat: EngageBattle cubeB
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Smarty
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 3 Dummy(Smarty) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Auto Saving
+Combat: DisplaySlots wait finished
+Combat: Smarty encounter enemy batB, Hex 12-15
+Combat: POI check: Hex 12-15 type Enemy
+Combat: InitiateCombateSessionRPC
+Combat: StartEncounterSession Diorama baseGP Enemy
+Encounter: Random Seed - 674063604
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+Combat: WaitForCameraToZoomIN
+Combat: CommenceBattle
+Combat: CommenceBattleRPC
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Smarty
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 3 Dummy(Smarty) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Shuffle Herbs
+Game Round: 29, Stage Percent: 57%, Stage Progression: Tier3, Player Progression: Tier3
+Auto Saving
+Combat: DisplaySlots wait finished
+Combat: POI check: Hex 12-2 type MiniEncounter
+Combat: InitiateCombateSessionRPC
+Combat: StartEncounterSession Diorama baseGP Enemy
+Encounter: Random Seed - 2111304826
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+Combat: WaitForCameraToZoomIN
+Combat: CommenceBattle
+Combat: CommenceBattleRPC
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Huntery
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 1 Dummy(Huntery) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy(skellyE) is attempting norm(None)
+Combat: EngageBattle skellyE
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Huntery
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 1 Dummy(Huntery) is attempting to flee
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: FleeRPC_CR
+Combat: FleeRPC_CR wait
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Huntery
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 1 Dummy(Huntery) is attempting to flee
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: FleeRPC_CR
+Combat: FleeRPC_CR wait
+Auto Saving
+Combat: DisplaySlots wait finished
+#done in code# is not a member of the rowIds enumeration.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Auto Saving
+Combat: DisplaySlots wait finished
+Game Round: 30, Stage Percent: 60%, Stage Progression: Tier3, Player Progression: Tier3
+Auto Saving
+Combat: DisplaySlots wait finished
+Combat: Huntery encounter enemy impC, Hex 11-2
+Combat: POI check: Hex 11-2 type Enemy
+Combat: InitiateCombateSessionRPC
+Combat: StartEncounterSession Diorama baseGP Enemy
+Encounter: Random Seed - 325052758
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+Combat: WaitForCameraToZoomIN
+Combat: CommenceBattle
+Combat: CommenceBattleRPC
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Huntery
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 1 Dummy(Huntery) is attempting prof attack(bleed1)
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy(impC) is attempting prof(enSlowGroup)
+Combat: EngageBattle impC
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Smarty
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 3 Dummy(Smarty) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Huntery
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 1 Dummy(Huntery) is attempting prof attack(bleed1)
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy(impC) is attempting norm(None)
+Combat: EngageBattle impC
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Whitesmith
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 2 Dummy(Whitesmith) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Smarty
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 3 Dummy(Smarty) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+Analytics: EndSession_KillVexor, {"TotalRunDuration":9494.531,"Round":30,"HouseRulesEasier":false,"CharCount":3,"Players":1,"Difficulty":"EASY","Region":"NONE","Controller":false}
+Analytics: EndSession_Rules_KillVexor, {"HouseRulesEasier":false,"ChaosFrequency":6,"StartLifePool":4,"Inflation":0.9,"Difficulty":"EASY","AvgPlayerLevel":4.0,"Round":30,"Controller":false}
+Analytics: EndSession_KillVexor, {"TotalRunDuration":9495.553,"Round":30,"HouseRulesEasier":false,"CharCount":3,"Players":1,"Difficulty":"EASY","Region":"NONE","Controller":false}
+Analytics: EndSession_Rules_KillVexor, {"HouseRulesEasier":false,"ChaosFrequency":6,"StartLifePool":4,"Inflation":0.9,"Difficulty":"EASY","AvgPlayerLevel":4.0,"Round":30,"Controller":false}
+Deregistering Player 1
+Deregistering Player 2
+Deregistering Player 3
+GameLogic::OnDisconnectedFromPhoton
+PrepareToDisconnect
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+NullReferenceException: Object reference not set to an instance of an object
+  at DeveloperConsole.PrintToConsole (System.String text) [0x00000] in <filename unknown>:0 
+  at DeveloperConsole.CopyLogOutout (System.String condition, System.String stackTrace, LogType type) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Application.CallLogCallback (System.String logString, System.String stackTrace, LogType type, Boolean invokedOnMainThread) [0x00000] in <filename unknown>:0 
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DiscordController:OnDisable()
+ 
+(Filename:  Line: -1)
+
+Discord: shutdown
+UnloadTime: 130.351727 ms
+Searching for compatible XInput library...
+Found Xinput1_4.dll.
+Release v1.0.7.8361 
+64 Bit version
+Release Build
+Discord: init
+
+Unloading 823 unused Assets to reduce memory usage. Loaded Objects now: 129416.
+Total: 152.639959 ms (FindLiveObjects: 6.750496 ms CreateObjectMapping: 11.391501 ms MarkObjects: 131.976411 ms  DeleteObjects: 2.520342 ms)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 1b70 -> priority: 1 
+  Thread -> id: 3368 -> priority: 1 
+  Thread -> id: 3d94 -> priority: 1 
+  Thread -> id: 18e4 -> priority: 1 
+GameLogic::OnApplicationQuit
+Discord: shutdown
